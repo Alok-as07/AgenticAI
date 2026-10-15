@@ -11,3 +11,10 @@ wheels/
 .env
 .vscode
 uv.lock
+
+
+#extra
+command.txt
+
+rag/files
+rag/data
